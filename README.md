@@ -43,9 +43,9 @@ If you haven't already done so, take a minute to verify your e-mail. You will ne
 
 When you are done, submit the assignment:
 
-* Click on your GitHub bookmark to take you to your GitHub profile, then copy the URL.
+* Copy the URL of your GitHub Pages site, then copy the submission URL.
 * On Canvas (you're here, right?) paste the URL into the submission box.
-* Finally in your notebook, reflect on how it went today:
+* At the end of class, in your notebook, reflect on how it went today:
   - Select the next blank page and date it and title it "Starting GitHub" would not be a bad choice of title for today.
   - What is something that "clicked" for your? Perhaps, how do you think we might use Git and GitHub on our final project?
   - Did you get stuck or lost today? Where? Do you know why?
